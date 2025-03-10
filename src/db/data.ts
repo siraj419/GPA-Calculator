@@ -8,16 +8,16 @@ export const subjectsData : Subject[]= [{
     mid: 0, 
     terminal: 0, 
     creditHours: 3,
-    totalMarks: 0, 
+    totalMarks: 150, 
     isLab: false 
 },
 { 
     id: 2, 
     name: "Applied Physics", 
     quiz: 0, 
-    assignment: 7.7, 
-    mid: 24, 
-    terminal: 42, 
+    assignment: 0, 
+    mid: 0, 
+    terminal: 0, 
     creditHours: 2,
     totalMarks: 100, 
     isLab: false 
@@ -25,10 +25,10 @@ export const subjectsData : Subject[]= [{
 { 
     id: 3, 
     name: "Calculas & Analytical Geometry", 
-    quiz: 12, 
-    assignment: 13.5, 
-    mid: 37, 
-    terminal: 42, 
+    quiz: 0, 
+    assignment: 0, 
+    mid: 0, 
+    terminal: 0, 
     creditHours: 3,
     totalMarks: 150, 
     isLab: false 
@@ -36,10 +36,10 @@ export const subjectsData : Subject[]= [{
 { 
     id: 4, 
     name: "Information & Communication Technologies", 
-    quiz: 8.5, 
-    assignment: 10, 
-    mid: 26, 
-    terminal: 46, 
+    quiz: 0, 
+    assignment: 0, 
+    mid: 0, 
+    terminal: 0, 
     creditHours: 2,
     totalMarks: 100, 
     isLab: false 
@@ -47,10 +47,10 @@ export const subjectsData : Subject[]= [{
 { 
     id: 5, 
     name: "Pakistan Studies", 
-    quiz: 6, 
-    assignment: 8, 
-    mid: 26, 
-    terminal: 37, 
+    quiz: 0, 
+    assignment: 0, 
+    mid: 0, 
+    terminal: 0, 
     creditHours: 2,
     totalMarks: 100, 
     isLab: false 
@@ -58,10 +58,10 @@ export const subjectsData : Subject[]= [{
 { 
     id: 6, 
     name: "Functional English", 
-    quiz: 12, 
-    assignment: 9.8, 
-    mid: 39, 
-    terminal: 50, 
+    quiz: 0, 
+    assignment: 0, 
+    mid: 0, 
+    terminal: 0, 
     creditHours: 3,
     totalMarks: 150, 
     isLab: false 
@@ -69,8 +69,8 @@ export const subjectsData : Subject[]= [{
 { 
     id: 7, 
     name: "ICT Lab", 
-    lab: 15.5, 
-    terminal: 24, 
+    lab: 0, 
+    terminal: 0, 
     creditHours: 1,
     totalMarks: 50, 
     isLab: true 
@@ -78,8 +78,8 @@ export const subjectsData : Subject[]= [{
 { 
     id: 8, 
     name: "Applied Physics Lab", 
-    lab: 12, 
-    terminal: 32, 
+    lab: 0, 
+    terminal: 0, 
     creditHours: 1,
     totalMarks: 50, 
     isLab: true 
@@ -87,8 +87,8 @@ export const subjectsData : Subject[]= [{
 { 
     id: 9, 
     name: "Programming Fundamentals Lab", 
-    lab: 19.5, 
-    terminal: 30, 
+    lab: 0, 
+    terminal: 0, 
     creditHours: 1,
     totalMarks: 50, 
     isLab: true 
